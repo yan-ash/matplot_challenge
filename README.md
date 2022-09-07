@@ -17,7 +17,7 @@ In this part, we focus on the four of the most promising treatment regimens: Cap
 As it is shown in the line chart, the Mouse (ID: s185) treated with Capomulin, the tumour volumn goes down with more timepoints.
 Therefore, we can say Capomulin is very effective in treating tumours.
 
-#### Part 5 
+#### Part 5 Scatter Plot, Correlation and Regression
 It is an analysis to find out if the mouse weight plays an important role in developing the tumour while treated with Capomulin.
  From the scatter plot, we could see there is a close relationship between the two factors. It clearly shows that the tumour volumn goes up with the weight of mouse.
 
